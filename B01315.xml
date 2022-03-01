@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous Millainese astrologer his prophecies and predictions for the year 1700. Being more esteemed of beyond sea, then Man in Scotland, Partridge in England, or Whaley in Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01315</idno>
+            <idno type="STC">Wing A167I</idno>
+            <idno type="STC">ESTC R175430</idno>
+            <idno type="EEBO-CITATION">52614493</idno>
+            <idno type="OCLC">ocm 52614493</idno>
+            <idno type="VID">175742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175742)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous Millainese astrologer his prophecies and predictions for the year 1700. Being more esteemed of beyond sea, then Man in Scotland, Partridge in England, or Whaley in Ireland.</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  17th century --  Early works to 1800.</term>
+               <term>Astrology --  17th cenutury --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+               <term>Europe --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175742:1"/>
+            <pb facs="tcp:175742:1" rendition="simple:additions"/>
+            <head>The famous <hi>MILLAINESE</hi> ASTROLOGER his Propheſies and Predictions for the Year 1700. Being more Eſteemed of beyond Sea, than <hi>Man</hi> in <hi>Scotland, Partridge</hi> in <hi>England,</hi> or <hi>Whaley</hi> in <hi>Ireland.</hi>
+            </head>
+            <p>IN his General Judgment on the Year 1700. he ſays, That the People who live under <hi>Aries,</hi> amongſt whom is <hi>Britain,</hi> ſhall enjoy a happy Plenty, where<g ref="char:EOLhyphen"/>as, on the contrary, thoſe who live under <hi>Capricorn</hi> and <hi>Libra,</hi> ſhall ſuffer by want, and the brutiſh Rage of Conquerors: Amongſt thoſe Places is <hi>Rome, Strazburgh, Alſace, Dauphinee, Austria, Greece, Lithuania,</hi> &amp;c. Thoſe under <hi>Scropio,</hi> amongſt whom is <hi>Catalonia, Maurialnia, Norway, Sweden,</hi> &amp;c, are threatned with a Plague. Thoſe under <hi>Capricorn, Gemini, Libra</hi> and <hi>Sagittarius,</hi> amongſt whom is <hi>Rome</hi> and other places already mentioned, as alſo <hi>Spain, Portugal,</hi> Part of <hi>Saxony, Italy</hi> &amp;c, ſhall be afflicted with Tragical Scenes, Enmities, Quar<g ref="char:EOLhyphen"/>rels and War. He ſays, The begining af the Year will be filled with extraordi<g ref="char:EOLhyphen"/>nary Events and Diſgraces, which will be Forerunners of things of worſe Conſe<g ref="char:EOLhyphen"/>quence. He adds that there will be Embarkments of Troops, ſolemn Embaſſies, and that the Women will have more Powr than Men, tho' it be dangerous to truſt them with Matters of State.</p>
+            <p>In the Winter Quarter, which he begins the 20. of <hi>December</hi> laſt, and conti<g ref="char:EOLhyphen"/>nues to the 20th of <hi>March,</hi> he ſays, that under <hi>Libra, Scropio, Virgo,</hi> and <hi>Gemini,</hi> a Sect will give Trouble to the State; a diſturber will aſcend a Throne, but ſhall have his Handsfull, That a Place will be demoliſhed, to the great Diſcontent of it's true Maſter: That the Seaſon will not conclude without Bloodſhed: That a Princeſs ſhall paſs from Anguiſh to Joy: And that an unequal Marriage will Make, a great Noiſe.</p>
+            <p>In the Spring, which he begins on the 20th of <hi>March,</hi> and carries unto the 21. of <hi>June,</hi> he ſays, That under <hi>Libra, Cancer, Capricorn,</hi> and <hi>Leo,</hi> an Aſſemb<g ref="char:EOLhyphen"/>ly will make a Court very uneaſie tho' they be very Crafty: That there will be Conteſtations betwixt the Temporal and Spiritual Powers: That the Birth of a Boy will occaſion abundance of Reflection: That a Republick will deceive its Compa<g ref="char:EOLhyphen"/>nion: That one Priſon will not be enough for Criminals; That there will be dang<g ref="char:EOLhyphen"/>er of Batteries and Popular Inſurrections; And that a Woman ſhall occaſion Mourn<g ref="char:EOLhyphen"/>ing to be wore.</p>
+            <p>In the Summer, which he begins on the 21ſt of <hi>June,</hi> and ends on the 22d of <hi>September,</hi> he ſayes, that under <hi>Leo, Aries,</hi> and <hi>Taurus,</hi> The death of a certain Perſon will occaſion great Truble to the Nobility. That there ſhall be a Battle &amp; ſome Touns taken, that the Reputation of a certain Country for Feats of Arms will be obſcured; thet under <hi>Cancer</hi> there will be Feaſts and Publick Rejoyſings, happy Child-Birth, Alliances and Peace; that under <hi>Scorpio, Taurus</hi> and <hi>Leo,</hi> an illuſtrious old Man will die; Tis ſuppoſed the Pope, for <hi>Rome</hi> is one of the Places he Means under <hi>Leo.</hi> He adds, That Fleets will be ill managed, and that there will be more cauſe to fear Fit: by Water than by Land.</p>
+            <p>In the Autumn, which he begins on the twentie Second of <hi>Sept.</hi> he ſays, there will be univerſal Joy, Particularly under <hi>Aquarius, Aries,</hi> and <hi>Taurus;</hi> that under <hi>Tau<g ref="char:EOLhyphen"/>rus, Aries</hi> and <hi>Libra,</hi> War will always be deplorable; that under the ſame Sign and <hi>Scorpio,</hi> a Sedition againſt Religion will be Puniſhed; and that a great Man near a Throne ſhall know that GOD is only to be truſted, and ſhall alſo have occaſion to make Reflections upon that of Pſalmiſt, <hi>Don't put your Truſt in Princes.</hi>
+            </p>
+            <p>In <hi>January,</hi> he ſays, That under <hi>Libra, Piſces,</hi> and <hi>Gemini,</hi> There will be a ſecret Correſpondence carried on for exalting the Church: That under thoſe Signs and that of <hi>Aquarius,</hi> a ſtrock of Authority ſhall humble the Pride of a People. That under <hi>Cancer</hi> and <hi>Aquarius</hi> the Inſolence of People and Republicks will occaſion Rupturs. That under <hi>Capricorn</hi> and <hi>Cancer,</hi> the Publick Scandall of a great Man will much diſcourſe That a great Project will be broken. That under <hi>Aries, Libra, Aquarius,</hi> and <hi>Taurus,</hi> There will be a great Quarrel about a ſmall Juriſdiction; and a Fire that was extinguiſhed ſhall be kindled, and in haizard of burning a long time at the Charge of the Weakeſt. That under <hi>Sagitarius</hi> and
+<pb facs="tcp:175742:2"/> 
+               <hi>Piſes,</hi> there will be a great Buſtle in a Court about a Woman. That under thoſe Signes and that of <hi>Aries,</hi> the ſurprizing of a Country will call for vengance, the eſtabliſhment of a Couſin will Break divers Meaſurs, and many Officers will be Changed.</p>
+            <p>In <hi>February,</hi> he ſays, That an important Affair will be ruined by Flattery, un<g ref="char:EOLhyphen"/>der <hi>Aquarius</hi> and <hi>Leo.</hi> That under <hi>Scorpio</hi> and <hi>Cancer</hi> there will be Treaſon, a Fleet in danger. That under <hi>Cancer</hi> and <hi>Aquarius</hi> there will be change of Delib<g ref="char:EOLhyphen"/>rations amongſt ſome Aſſemblies, Exiles, and an illuſtrious Perſon unfortunat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That under <hi>Aquarius</hi> and <hi>Scorpio,</hi> a Proceſs of Conſequence won't be ended but by Arms. Under <hi>Aquarius</hi> and <hi>Cancer</hi> there will be a Diſſention and Anger amongſt thoſe Belonging to the State. That under <hi>Piſces, Aquarius</hi> and <hi>Capricorn</hi> a Reconciliation will occaſion greater Jealouſie than a war, Under <hi>Scorpio, Sagi<g ref="char:EOLhyphen"/>tarius and Cancer,</hi> Magnificence and Civil Diſſenſions.</p>
+            <p>In <hi>March,</hi> under <hi>Piſces</hi> and <hi>Capricorn,</hi> an Army ſhall make a Triumphant En<g ref="char:EOLhyphen"/>trance unto a Country; under <hi>Scropio</hi> and <hi>Taurus</hi> a Republick ſhall be upbraided with Ignominy and Ingratitude under <hi>Piſces Aries</hi> and <hi>Capricorn,</hi> an Hectoring Fellow cauſing and endeavouring the Ruine of his Country to exalt him ſelf, under <hi>Aries</hi> and <hi>Gemini;</hi> betwixt Confederats an Aſſembly brok up unde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Piſces</hi> and <hi>Gemini;</hi> a Diſcovery of ſome black Politicks under <hi>Aquarius</hi> and <hi>Scorpio;</hi> a Rupture and bloody Rencounter, under thoſe Signes and <hi>Aries</hi> an Accomodation ready to be ſigned. A Prince ſhall become Mercifull, contrary to his own Intreſt. The Magiſtrates occaſion and receive much Trouble. Certain Ad<g ref="char:EOLhyphen"/>venturers ſhall make a great Noice, The <hi>Eaſt</hi> and <hi>West-Indes</hi> will draw the Eyes of <hi>Europ</hi> after them. The Church will triumph over her Enemies. The People of a certain Iſland ſhall be in Continuall Agitation.</p>
+            <p>In <hi>April,</hi> under <hi>Aries</hi> and <hi>Libra,</hi> the Deſigns of a potentat, will be oppoſed in vain; under <hi>Scorpio</hi> and <hi>Aquiarius,</hi> loſs of Touns and Battles; under <hi>Taurus</hi> and <hi>Leo</hi> a great Man dies</p>
+            <p>In <hi>May,</hi> under <hi>Aries, Aquarius</hi> and <hi>Cancer</hi> Threats of the Sword and Pen go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> togither, and will have a happy Iſſue for thoſe that concern themſelves in the Affair Great Debates, Fears of Civil War; under <hi>Leo Cancer</hi> and other Signs above mentioned, Miſchief fomented by thoſe that ought to procure Good; and Indi<g ref="char:EOLunhyphen"/>ſcreet Zeal will occaſion Sorrow; but Matters are Paſt Remedy; under <hi>Taurus Scorpio</hi> and <hi>Leo,</hi> an Interview will keep the World in Suſpence; under <hi>Taurus Aries</hi> and <hi>Leo,</hi> War Tribunars overturned by Soldiers and the Miſunderſtanding amongſt them, makes good Sport to thoſe under <hi>Aries;</hi> under <hi>Gemini</hi> and <hi>Leo,</hi> Diſquiets by reaſon of Money, when they are at peace from the Sword; under <hi>Gemini</hi> and <hi>Piſces</hi> an unquiet Leader will neither let himſelf nor others be at eaſe A Favoritie near to diſgrace; under thoſe Signs and <hi>Cancer,</hi> Sea and Land Ech<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the Reports of Cannon, and ſhall be Witneſſes of a bloody Defeate. A cer<g ref="char:EOLhyphen"/>tain Perſon thinks himſelf above Laws and Precepts.</p>
+            <p>In <hi>June,</hi> under <hi>Gemini</hi> and <hi>Sagittarius,</hi> People careleſs to defend their Coun<g ref="char:EOLhyphen"/>try; under <hi>Gemini</hi> and <hi>Aquarius</hi> Blood ſhed, a Peace ſhall not prevent Tears o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> War; under <hi>Gemini</hi> and <hi>Cancer;</hi> a Treaty will occaſion great Good for the Publick Repoſe, an Affair of Importance diſcovered, an Ambitious Perſon wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> occaſion Great Trouble, Under <hi>Piſces, Cancer</hi> and <hi>Gemini,</hi> an Invaſion make more Noiſe afar off than near at hand.</p>
+            <p>In <hi>July,</hi> under <hi>Aries</hi> and <hi>Leo,</hi> new Conventions and Intrigues to make War<g ref="char:punc">▪</g> A General abandoned to the Enemy, has no Remedy left him but Policy. Under <hi>Scorpio</hi> and <hi>Cancer</hi> a Gown-Man performs the Office of a Sword-man, for which He is commended by all men. Under <hi>Cancer, Piſces</hi> and <hi>Aries,</hi> a violent Attac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coſts a General his Life. The Diſobedience of Soldiers retards the Affairs of a certain Potentate. Under <hi>Cancer</hi> and <hi>Scorpio,</hi> a juſt Grief troubles to a Country Under thoſe Signs and that of <hi>Sagittarius,</hi> a Fleet in great danger. Under <hi>Le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Scorpio,</hi> a ſtrange Event befalling a particular Perſon, will amaze the Pub<g ref="char:EOLhyphen"/>lick. Under <hi>Cancer</hi> a mariage of Conſequence treated of, a Prince gives Largeſ<g ref="char:EOLunhyphen"/>ſes out of Policy; Falſe News of a Conſpiracy make a great Noiſe. Privat <hi>R<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>trived</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
